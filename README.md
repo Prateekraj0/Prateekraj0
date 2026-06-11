@@ -241,27 +241,29 @@ Creates Extraordinary Results
 
 ---
 
-# 📫 Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/Prateekraj0">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://prateekraj.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Portfolio-FF6B35?style=for-the-badge&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/prateek-raj-8177a4276/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/prateek-raj-8177a4276/" target="_blank">
+<img src="https://img.shields.io/badge/Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.kaggle.com/datasets/prateekraj9507/indian-cattle-breed-information-dataset">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="45" />
+<a href="https://github.com/Prateekraj0" target="_blank">
+<img src="https://img.shields.io/badge/Open_Source-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://prateekraj.vercel.app/">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit_Now-blue?style=for-the-badge" />
+<a href="https://www.kaggle.com/prateekraj9507" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle_Datasets-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </a>
 
 </div>
+
+<h3 align="center">
+💡 Let's build intelligent solutions together
+</h3>
 
 ---
 

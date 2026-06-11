@@ -57,7 +57,7 @@ class PrateekRaj:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,mysql,mongodb,html,css,js,react,nodejs,git,github,vscode,flask" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,mysql,html,css,js,git,github,vscode,streamlit" />
 
 </div>
 
@@ -72,7 +72,7 @@ class PrateekRaj:
 | Deep Learning | ANN, CNN |
 | Data Analysis | Pandas, NumPy |
 | Visualization | Matplotlib, Seaborn, Plotly |
-| Database | MySQL, MongoDB |
+| Database | MySQL |
 | Deployment | Flask, Streamlit |
 | Version Control | Git, GitHub |
 
@@ -170,17 +170,26 @@ AI-powered disease detection using image classification techniques.
 # 🚀 Current Learning Progress
 
 ```text
-Machine Learning      ████████████████ 100%
+Python                ████████████████ 100%
 
-Deep Learning         ██████████████░░ 95%
+Pandas                ████████████████ 100%
 
-Computer Vision       █████████████░░░ 90%
+NumPy                 ████████████████ 100%
 
-Data Science          ██████████████░░ 95%
+Matplotlib            ████████████████ 100%
 
-MLOps                 ████████░░░░░░░ 60%
+Seaborn               ████████████████ 100%
 
-Generative AI         ███████░░░░░░░░ 55%
+Plotly/ Cufflinks     ████████████████ 100%
+
+Statistics            █████████████░░░ 85%
+
+Machine Learning      ████████░░░░░░░░ 60%
+
+Deep Learning         █████░░░░░░░░░░░ 30%
+
+Data Science          ███████░░░░░░░░░ 45%
+
 ```
 
 ---
@@ -246,6 +255,10 @@ Creates Extraordinary Results
 
 <a href="https://www.kaggle.com/datasets/prateekraj9507/indian-cattle-breed-information-dataset">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="45" />
+</a>
+
+<a href="https://prateekraj.vercel.app/">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit_Now-blue?style=for-the-badge" />
 </a>
 
 </div>

@@ -1,53 +1,88 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Prateek+Raj;AI+%26+ML+Engineer;Aspiring+Data+Scientist;Full+Stack+Developer;Building+Real-World+AI+Solutions" />
-
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Prateek+Raj;AI+%26+ML+Engineer;Aspiring+Data+Scientist;Full+Stack+Developer;Building+AI+Solutions+for+Real+World+Problems;Welcome+to+my+GitHub+Profile+🚀" />
 
 # 🚀 Prateek Raj
 
 ### AI & ML Enthusiast | Data Scientist | Full Stack Developer
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge" />
+![](https://komarev.com/ghpvc/?username=Prateekraj0&style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🎯 About Me
 
-🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
+🎓 B.Tech in Computer Science & Engineering (AI & ML)
 
-📊 Passionate about Data Science, Machine Learning and Deep Learning
+🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Computer Vision
 
-💡 Building AI-powered solutions for real-world problems
+📊 Transforming data into meaningful insights and intelligent solutions
+
+🚀 Building real-world AI-powered applications that solve practical problems
 
 🌱 Currently exploring:
-- Advanced Machine Learning
 - Deep Learning
-- MLOps
+- Computer Vision
 - Data Engineering
+- MLOps
 - Generative AI
 
-🏆 Kaggle Dataset Creator
-
-📫 Reach Me: your-email@gmail.com
+💡 Always learning, building, and improving
 
 ---
 
-# 🛠️ Tech Stack
+## ⚡ Fun Fact
+
+```python
+class PrateekRaj:
+
+    def __init__(self):
+        self.role = "Data Scientist"
+        self.education = "B.Tech CSE (AI & ML)"
+        self.passion = "Building AI Solutions"
+
+    def daily_routine(self):
+        while True:
+            Learn()
+            Build()
+            Experiment()
+            Improve()
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,mysql,mongodb,html,css,js,react,nodejs,git,github,vscode)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy,mysql,mongodb,html,css,js,react,nodejs,git,github,vscode,flask" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 📊 Data Science Toolkit
 
-## 🐄 PashuSetu
+| Category | Technologies |
+|-----------|-------------|
+| Programming | Python, JavaScript |
+| Machine Learning | Scikit-Learn, TensorFlow |
+| Deep Learning | ANN, CNN |
+| Data Analysis | Pandas, NumPy |
+| Visualization | Matplotlib, Seaborn, Plotly |
+| Database | MySQL, MongoDB |
+| Deployment | Flask, Streamlit |
+| Version Control | Git, GitHub |
 
-An AI-powered cattle care platform integrating:
+---
+
+# 🌟 Featured Projects
+
+## 🐄 PashuSetu – AI Powered Cattle Care Platform
+
+An integrated platform that combines:
 
 ✅ Breed Recognition System
 
@@ -57,122 +92,170 @@ An AI-powered cattle care platform integrating:
 
 ✅ Nearby Vet Finder
 
-### Technologies:
+✅ Smart Livestock Assistance
+
+### Tech Used
 Python • TensorFlow • Flask • React • MongoDB
 
 ---
 
 ## ♻️ Waste Segregation Smart Dustbin
 
-Image Classification System capable of identifying:
+An AI-based waste classification system capable of identifying multiple waste categories.
 
-- Plastic
-- Paper
-- Metal
-- Glass
-- Clothes
-- Battery
-- Organic Waste
+### Features
 
-### Features:
-✔ Image Upload
+✔ Deep Learning Based Classification
 
-✔ Real-time Prediction
+✔ Image Upload Prediction
 
-✔ Deep Learning Model
+✔ Smart Waste Segregation
 
-✔ User Friendly Interface
+✔ User-Friendly Interface
 
 ---
 
 ## 💼 Skill-Based Job Recommendation System
 
-A machine learning platform that:
+A Machine Learning recommendation platform that:
 
 🔹 Recommends jobs based on skills
 
 🔹 Identifies skill gaps
 
-🔹 Suggests learning paths
+🔹 Suggests learning resources
 
-🔹 Provides career guidance
-
----
-
-## 🌱 Plant Disease Detection System
-
-AI-powered disease prediction using leaf images.
+🔹 Provides personalized career guidance
 
 ---
 
-# 📊 GitHub Analytics
+## 🌿 Plant Disease Detection System
+
+AI-powered disease detection using image classification techniques.
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prateekraj0&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekraj0&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateekraj0&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-[![Prateek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
-
----
-
-# 🏆 GitHub Trophies
+# 📊 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekraj0&theme=react-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📚 Data Science Toolkit
+# 🚀 Current Learning Progress
 
-```python
-class PrateekRaj:
+```text
+Machine Learning      ████████████████ 100%
 
-    def __init__(self):
-        self.role = "Data Scientist"
-        self.education = "B.Tech CSE (AI & ML)"
+Deep Learning         ██████████████░░ 95%
 
-        self.languages = [
-            "Python",
-            "Java",
-            "JavaScript"
-        ]
+Computer Vision       █████████████░░░ 90%
 
-        self.data_science = [
-            "Machine Learning",
-            "Deep Learning",
-            "Computer Vision",
-            "Data Analysis"
-        ]
+Data Science          ██████████████░░ 95%
 
-        self.tools = [
-            "TensorFlow",
-            "Scikit-Learn",
-            "Pandas",
-            "NumPy",
-            "Flask",
-            "React"
-        ]
+MLOps                 ████████░░░░░░░ 60%
 
-    def say_hi(self):
-        return "Transforming data into intelligent solutions 🚀"
+Generative AI         ███████░░░░░░░░ 55%
+```
+
+---
+
+# 💻 Daily Workflow
+
+```mermaid
+graph LR
+
+A[Collect Data] --> B[Data Cleaning]
+
+B --> C[Data Analysis]
+
+C --> D[Feature Engineering]
+
+D --> E[Model Training]
+
+E --> F[Model Evaluation]
+
+F --> G[Deployment]
+
+G --> H[Continuous Improvement]
+```
+
+---
+
+# 📚 My Development Philosophy
+
+```text
+Learn ➜ Build ➜ Fail ➜ Improve ➜ Repeat
+
+Small Consistent Progress
+Creates Extraordinary Results
+```
+
+---
+
+# 🎯 2026 Goals
+
+✅ Master Data Science
+
+✅ Publish More Kaggle Datasets
+
+✅ Build Production-Level AI Projects
+
+✅ Contribute to Open Source
+
+✅ Secure a Data Scientist Role
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Prateekraj0">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/prateek-raj-8177a4276/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.kaggle.com/datasets/prateekraj9507/indian-cattle-breed-information-dataset">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="45" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💡 Turning Data Into Intelligent Solutions
+
+### Thanks for visiting my profile! ⭐
+
+</div>

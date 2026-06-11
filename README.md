@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Prateek+Raj;AI+%26+ML+Engineer;Aspiring+Data+Scientist;Full+Stack+Developer;Building+AI+Solutions+for+Real+World+Problems;Welcome+to+my+GitHub+Profile+🚀" />
 
-# 🚀 Prateek Raj
+#  Prateek Raj
 
 ### AI & ML Enthusiast | Data Scientist 
 

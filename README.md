@@ -78,63 +78,6 @@ class PrateekRaj:
 
 ---
 
-# 🌟 Featured Projects
-
-## 🐄 PashuSetu – AI Powered Cattle Care Platform
-
-An integrated platform that combines:
-
-✅ Breed Recognition System
-
-✅ Disease Detection System
-
-✅ Breed Directory
-
-✅ Nearby Vet Finder
-
-✅ Smart Livestock Assistance
-
-### Tech Used
-Python • TensorFlow • Flask • React • MongoDB
-
----
-
-## ♻️ Waste Segregation Smart Dustbin
-
-An AI-based waste classification system capable of identifying multiple waste categories.
-
-### Features
-
-✔ Deep Learning Based Classification
-
-✔ Image Upload Prediction
-
-✔ Smart Waste Segregation
-
-✔ User-Friendly Interface
-
----
-
-## 💼 Skill-Based Job Recommendation System
-
-A Machine Learning recommendation platform that:
-
-🔹 Recommends jobs based on skills
-
-🔹 Identifies skill gaps
-
-🔹 Suggests learning resources
-
-🔹 Provides personalized career guidance
-
----
-
-## 🌿 Plant Disease Detection System
-
-AI-powered disease detection using image classification techniques.
-
----
-
 # 📈 GitHub Analytics
 
 <div align="center">
@@ -142,16 +85,6 @@ AI-powered disease detection using image classification techniques.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prateekraj0&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekraj0&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prateekraj0&theme=tokyonight&hide_border=true"/>
 
 </div>
 

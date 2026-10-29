@@ -78,55 +78,6 @@ class PrateekRaj:
 
 ---
 
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prateekraj0&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekraj0&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekraj0&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Current Learning Progress
-
-```text
-Python                ████████████████ 100%
-
-Pandas                ████████████████ 100%
-
-NumPy                 ████████████████ 100%
-
-Matplotlib            ████████████████ 100%
-
-Seaborn               ████████████████ 100%
-
-Plotly/ Cufflinks     ████████████████ 100%
-
-Statistics            █████████████░░░ 85%
-
-Machine Learning      ████████░░░░░░░░ 60%
-
-Deep Learning         █████░░░░░░░░░░░ 30%
-
-Data Science          ███████░░░░░░░░░ 45%
-
-```
-
----
-
 # 💻 Daily Workflow
 
 ```mermaid

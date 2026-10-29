@@ -6,8 +6,6 @@
 
 ### AI & ML Enthusiast | Data Scientist 
 
-![](https://komarev.com/ghpvc/?username=Prateekraj0&style=for-the-badge)
-
 </div>
 
 ---

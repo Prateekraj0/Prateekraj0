@@ -108,21 +108,6 @@ Learn ➜ Build ➜ Fail ➜ Improve ➜ Repeat
 Small Consistent Progress
 Creates Extraordinary Results
 ```
-
----
-
-# 🎯 2026 Goals
-
-✅ Master Data Science
-
-✅ Publish More Kaggle Datasets
-
-✅ Build Production-Level AI Projects
-
-✅ Contribute to Open Source
-
-✅ Secure a Data Scientist Role
-
 ---
 
 <div align="center">
@@ -145,15 +130,9 @@ Creates Extraordinary Results
 
 </div>
 
-<h3 align="center">
-💡 Let's build intelligent solutions together
-</h3>
-
 ---
 
 <div align="center">
-
-## 💡 Turning Data Into Intelligent Solutions
 
 ### Thanks for visiting my profile! ⭐
 
